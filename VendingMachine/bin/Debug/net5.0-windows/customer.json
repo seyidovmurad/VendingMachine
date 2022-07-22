@@ -1,0 +1,62 @@
+[
+  {
+    "MoneyIn": "10",
+    "MoneyOut": "8.8",
+    "TimeOfBuying": "10/5/2021 5:02:43 PM",
+    "SnackBought": {
+      "SnackAmount": 32,
+      "SnackPrice": 1.2,
+      "SnackName": "Cola"
+    }
+  },
+  {
+    "MoneyIn": "5",
+    "MoneyOut": "3.8",
+    "TimeOfBuying": "10/5/2021 5:10:14 PM",
+    "SnackBought": {
+      "SnackAmount": 32,
+      "SnackPrice": 1.2,
+      "SnackName": "Cola"
+    }
+  },
+  {
+    "MoneyIn": "5",
+    "MoneyOut": "3.8",
+    "TimeOfBuying": "10/5/2021 5:10:50 PM",
+    "SnackBought": {
+      "SnackAmount": 32,
+      "SnackPrice": 1.2,
+      "SnackName": "Cola"
+    }
+  },
+  {
+    "MoneyIn": "15.299999999999999",
+    "MoneyOut": "13.899999999999999",
+    "TimeOfBuying": "7/22/2022 3:52:05 PM",
+    "SnackBought": {
+      "SnackAmount": 7,
+      "SnackPrice": 1.4,
+      "SnackName": "Craxs"
+    }
+  },
+  {
+    "MoneyIn": "5",
+    "MoneyOut": "3.5",
+    "TimeOfBuying": "7/22/2022 3:52:51 PM",
+    "SnackBought": {
+      "SnackAmount": 12,
+      "SnackPrice": 1.5,
+      "SnackName": "Mars"
+    }
+  },
+  {
+    "MoneyIn": "3",
+    "MoneyOut": "1.5",
+    "TimeOfBuying": "7/22/2022 3:53:10 PM",
+    "SnackBought": {
+      "SnackAmount": 11,
+      "SnackPrice": 1.5,
+      "SnackName": "Mars"
+    }
+  }
+]

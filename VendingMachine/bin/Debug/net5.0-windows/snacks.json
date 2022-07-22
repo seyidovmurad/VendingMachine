@@ -1,0 +1,62 @@
+[
+  {
+    "SnackAmount": 31,
+    "SnackPrice": 1.2,
+    "SnackName": "Cola"
+  },
+  {
+    "SnackAmount": 19,
+    "SnackPrice": 1.1,
+    "SnackName": "Sprite"
+  },
+  {
+    "SnackAmount": 6,
+    "SnackPrice": 2.0,
+    "SnackName": "Fuse-tea"
+  },
+  {
+    "SnackAmount": 18,
+    "SnackPrice": 1.2,
+    "SnackName": "Fanta"
+  },
+  {
+    "SnackAmount": 43,
+    "SnackPrice": 2.3,
+    "SnackName": "Lays"
+  },
+  {
+    "SnackAmount": 22,
+    "SnackPrice": 2.2,
+    "SnackName": "Doritos"
+  },
+  {
+    "SnackAmount": 46,
+    "SnackPrice": 1.5,
+    "SnackName": "Twix"
+  },
+  {
+    "SnackAmount": 10,
+    "SnackPrice": 1.5,
+    "SnackName": "Mars"
+  },
+  {
+    "SnackAmount": 31,
+    "SnackPrice": 1.8,
+    "SnackName": "Kit-Kat"
+  },
+  {
+    "SnackAmount": 13,
+    "SnackPrice": 2.7,
+    "SnackName": "Welch's"
+  },
+  {
+    "SnackAmount": 6,
+    "SnackPrice": 1.4,
+    "SnackName": "Craxs"
+  },
+  {
+    "SnackAmount": 24,
+    "SnackPrice": 3.4,
+    "SnackName": "Oreo"
+  }
+]
